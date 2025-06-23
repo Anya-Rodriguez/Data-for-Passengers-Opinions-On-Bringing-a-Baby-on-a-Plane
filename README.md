@@ -4,4 +4,4 @@ I am a frequent flyer and I was wondering what most people had thought about bab
 
 Majority of passengers are okay with babies being brought on a plane. We can see that with the chart I made.
 
-![This is a data wrapper chart](
+![This is a data wrapper chart](rfpBj-passengers-opinions-on-bringing-a-baby-on-a-plane.png)
